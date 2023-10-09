@@ -1,7 +1,7 @@
-
-La partie backend est basée sur <b>Spring Boot</b> et se compose des couches <b>DAO</b>,<b> Service (Métier)</b> et<b> Web</b>.<br>
-• La couche DAO est basée sur Spring Data, JPA, Hibernate<br>
-• La couche Métier est définie par une interface et une implémentation quelques spécifications fonctionnelles qui nécessite des calculs ou des traitements particuliers <br>
-• La couche Web est basée sur des API Restful basée sur Spring Data Rest ou des RestController<br>
+This is a web application that allows cinema and movies Management.
+The backend part is based on <b>Spring Boot</b> and consists of layers: <b>DAO</b>,<b> Service </b> et<b> Web</b>.<br>
+• The DAO layer is based on Spring Data, JPA, Hibernate.<br>
+• The Service layer is defined by an interface and an implementation of some functional specifications which require particular calculations or processing. <br>
+• The Web layer is based on Restful APIs based on Spring Data Rest or RestController.<br>
 
 
